@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x78A73AAe45dEC21B15a047341688F221222DB252",
+  "SCAN_LINK": "https://polygonscan.com/token/0x78a73aae45dec21b15a047341688f221222db252",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "BakedSnakes",
+  "SYMBOL": "BSNKE",
+  "MAX_SUPPLY": 4200,
+  "WEI_COST": 100000000000000000000,
+  "DISPLAY_COST": 100.00,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": true
+}
